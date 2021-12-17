@@ -40,7 +40,7 @@ I'm a Computer Systems Engineer, passionate about american football and collecti
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
-### <a href="https://www.instagram.com/_frontdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="20" width="30" /></a>  <a href="https://www.instagram.com/_frontdev" target="_blank">_frontdev</a>
+### <a href="https://www.instagram.com/_frontdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frontdev" height="20" width="30" /></a>  <a href="https://www.instagram.com/_frontdev" target="_blank">_frontdev</a>
 El objetivo de este proyecto es compartir conocimientos y consejos sobre desarrollo y programación, y seguir aprendiendo con la comunidad.
 
 <!-- ### Github stats
