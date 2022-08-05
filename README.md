@@ -41,7 +41,7 @@ I'm a Computer Systems Engineer, passionate about american football and collecti
 </p>
 
 ### <a href="https://www.instagram.com/_frontdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frontdev" height="20" width="30" /></a>  <a href="https://www.instagram.com/_frontdev" target="_blank">_frontdev</a>
-El objetivo de este proyecto es compartir conocimientos y consejos sobre desarrollo y programación, y seguir aprendiendo con la comunidad.
+The goal of this project is to share knowledge and tips on development and programming, and to continue learning with the community.
 
 <!-- ### Github stats
 <table>
